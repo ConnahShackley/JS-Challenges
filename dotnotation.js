@@ -649,3 +649,24 @@
 //   "Wednesday" || day == "Thursday" || day == "Friday") {
 //     console.log(weekendAlarm)
 //   }
+
+
+// WEEK 2 DAY 1 - Objects warmup/refresher exercise
+
+// const objPet = {
+
+//     name:       "Sonny",
+//     typeOfPet:  "Bison Fraise",
+//     age:        "1",
+//     colour:     "White",
+
+//     eat: function () {
+//         console.log(`${this.name} is eating Dog Food`);
+//     },
+//     drink: function () {
+//         console.log(`${this.name} is drinking water`);
+//     }
+// }
+
+// objPet.eat();
+// objPet.drink();

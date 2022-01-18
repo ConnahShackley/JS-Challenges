@@ -686,11 +686,11 @@
 
 // Example 2
 
-let shopping = [
-    ["yogurt", "milk", "apple juice"], 
-    ["bananas", "apples", "oranges"],
-    ["rice", "pasta", "noodles"]
-   ]
-   console.log(shopping[1][2]);
-   //output: oranges
-   
+// let shopping = [
+//     ["yogurt", "milk", "apple juice"], 
+//     ["bananas", "apples", "oranges"],
+//     ["rice", "pasta", "noodles"]
+//    ]
+//    console.log(shopping[1][2]);
+//    //output: oranges
+

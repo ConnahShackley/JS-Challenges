@@ -670,3 +670,27 @@
 
 // objPet.eat();
 // objPet.drink();
+
+// Create a shopping list using arrays - multiArray - example 1 
+
+// let array = ["something", "something else"];
+// let multiArray = [["something", "something else"], ["another thing", "running out of ideas"]];
+
+// let bigOne = [
+//     {catagory: "veg", list: ["carrot", "peppers"]},
+//     {catagory: "dog", list: ["food", "chews"]},
+//     {catagory: "cleaning", list: ["sponges", "fairy liquid"]}
+// ];
+
+// console.log(bigOne[1].list[1]);
+
+// Example 2
+
+let shopping = [
+    ["yogurt", "milk", "apple juice"], 
+    ["bananas", "apples", "oranges"],
+    ["rice", "pasta", "noodles"]
+   ]
+   console.log(shopping[1][2]);
+   //output: oranges
+   
